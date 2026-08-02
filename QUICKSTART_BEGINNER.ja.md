@@ -7,7 +7,7 @@
 
 ## 手順
 
-1. [GitHub Releases](https://github.com/u23ken/send-control/releases) から `Send-Control-v*.zip` をダウンロードします。
+1. [GitHub Releases](https://github.com/u23ken/app-sendcontrol/releases) から `Send-Control-v*.zip` をダウンロードします。
 2. ZIP を展開します。
 3. `Send Control.app` を `/Applications/` に移動します。
 4. `Send Control.app` をダブルクリックして起動します。

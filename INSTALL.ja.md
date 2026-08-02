@@ -9,7 +9,7 @@ English INSTALL: [INSTALL.md](INSTALL.md)
 
 ## 1. ダウンロードと検証
 
-1. [GitHub Releases](https://github.com/u23ken/send-control/releases) から `Send-Control-v*.zip` と `SHA256SUMS.txt` をダウンロードします。
+1. [GitHub Releases](https://github.com/u23ken/app-sendcontrol/releases) から `Send-Control-v*.zip` と `SHA256SUMS.txt` をダウンロードします。
 2. ZIP の checksum を確認します。
 
 ```bash

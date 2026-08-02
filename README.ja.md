@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/u23ken/send-control/releases"><img src="https://img.shields.io/github/v/release/u23ken/send-control" alt="Release"></a>
-  <a href="https://github.com/u23ken/send-control/releases"><img src="https://img.shields.io/github/downloads/u23ken/send-control/total" alt="Downloads"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/u23ken/send-control" alt="License"></a>
+  <a href="https://github.com/u23ken/app-sendcontrol/releases"><img src="https://img.shields.io/github/v/release/u23ken/app-sendcontrol" alt="Release"></a>
+  <a href="https://github.com/u23ken/app-sendcontrol/releases"><img src="https://img.shields.io/github/downloads/u23ken/app-sendcontrol/total" alt="Downloads"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/u23ken/app-sendcontrol" alt="License"></a>
   <img src="https://img.shields.io/badge/macOS-13%2B-blue" alt="macOS 13+">
 </p>
 
@@ -37,13 +37,13 @@ ChatGPT・Claude・Gemini のほか、Messenger など同様の問題が起き�
 
 ## ダウンロード
 
-<a href="https://github.com/u23ken/send-control/releases/latest">
+<a href="https://github.com/u23ken/app-sendcontrol/releases/latest">
   <strong>⬇ 最新版をダウンロード</strong>
 </a>
 
 ## インストール
 
-1. [Releases](https://github.com/u23ken/send-control/releases) から `Send-Control-v*.zip` をダウンロード
+1. [Releases](https://github.com/u23ken/app-sendcontrol/releases) から `Send-Control-v*.zip` をダウンロード
 2. 展開して `Send Control.app` を `/Applications/` に移動
 3. 起動して 2 つの権限を付与:
    - **アクセシビリティ**（`システム設定 > プライバシーとセキュリティ > アクセシビリティ`）

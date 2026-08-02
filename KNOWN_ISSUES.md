@@ -20,4 +20,4 @@ Japanese KNOWN_ISSUES: [KNOWN_ISSUES.ja.md](KNOWN_ISSUES.ja.md)
 ## Not Supported
 
 - This app cannot be distributed via the Mac App Store. CGEvent tap requires Accessibility permission, which is unavailable inside App Sandbox.
-- There is no auto-updater. Check [GitHub Releases](https://github.com/u23ken/send-control/releases) for updates.
+- There is no auto-updater. Check [GitHub Releases](https://github.com/u23ken/app-sendcontrol/releases) for updates.

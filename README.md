@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/u23ken/send-control/releases"><img src="https://img.shields.io/github/v/release/u23ken/send-control" alt="Release"></a>
-  <a href="https://github.com/u23ken/send-control/releases"><img src="https://img.shields.io/github/downloads/u23ken/send-control/total" alt="Downloads"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/u23ken/send-control" alt="License"></a>
+  <a href="https://github.com/u23ken/app-sendcontrol/releases"><img src="https://img.shields.io/github/v/release/u23ken/app-sendcontrol" alt="Release"></a>
+  <a href="https://github.com/u23ken/app-sendcontrol/releases"><img src="https://img.shields.io/github/downloads/u23ken/app-sendcontrol/total" alt="Downloads"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/u23ken/app-sendcontrol" alt="License"></a>
   <img src="https://img.shields.io/badge/macOS-13%2B-blue" alt="macOS 13+">
 </p>
 
@@ -36,13 +36,13 @@ Works with ChatGPT, Claude, Gemini, Messenger, and other apps with the same prob
 
 ## Download
 
-<a href="https://github.com/u23ken/send-control/releases/latest">
+<a href="https://github.com/u23ken/app-sendcontrol/releases/latest">
   <strong>⬇ Download latest release</strong>
 </a>
 
 ## Install
 
-1. Download `Send-Control-v*.zip` from [Releases](https://github.com/u23ken/send-control/releases)
+1. Download `Send-Control-v*.zip` from [Releases](https://github.com/u23ken/app-sendcontrol/releases)
 2. Unzip and move `Send Control.app` to `/Applications/`
 3. Launch and grant two permissions:
    - **Accessibility** (`System Settings > Privacy & Security > Accessibility`)

@@ -20,4 +20,4 @@ English KNOWN_ISSUES: [KNOWN_ISSUES.md](KNOWN_ISSUES.md)
 ## 未対応
 
 - Mac App Store での配布は技術的に不可能です。CGEvent tap にはアクセシビリティ権限が必要ですが、App Sandbox 内では使用できません。
-- 自動アップデート機能はありません。更新は [GitHub Releases](https://github.com/u23ken/send-control/releases) を確認してください。
+- 自動アップデート機能はありません。更新は [GitHub Releases](https://github.com/u23ken/app-sendcontrol/releases) を確認してください。

@@ -9,7 +9,7 @@ Japanese INSTALL: [INSTALL.ja.md](INSTALL.ja.md)
 
 ## 1. Download And Verify
 
-1. Download `Send-Control-v*.zip` and `SHA256SUMS.txt` from [GitHub Releases](https://github.com/u23ken/send-control/releases).
+1. Download `Send-Control-v*.zip` and `SHA256SUMS.txt` from [GitHub Releases](https://github.com/u23ken/app-sendcontrol/releases).
 2. Verify the ZIP checksum:
 
 ```bash
